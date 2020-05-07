@@ -34,6 +34,7 @@
 .insp h1:hover{
     color: #fff;
     background-color:  #1B4F72;
+    transition: ease-in 2ms;
 }
 
 #sample:hover{
@@ -44,6 +45,7 @@
     padding-left:14px  ;
     padding-right: 4px ;
     padding-bottom: 8px;
+    transition: ease-in 2ms;
 }
 
 
@@ -105,6 +107,7 @@
     background-color: #2E86C1;
     border: 2px #fff solid;
     color:#fff;
+    transition: ease-in 2ms;
 }
 
 
