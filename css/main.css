@@ -1,0 +1,115 @@
+
+
+.insp{
+    
+}
+
+#sample{
+
+}
+
+.insp h1{
+    text-align: center;
+    font-family: Montserrat;
+    color: #1B4F72;
+    width: 200px;
+    height: 50px;
+    margin: 2% 70% 0.1% ;
+    padding-top: 8px;
+    padding-right: 11px;
+    border: 2px #1B4F72 solid;
+}
+
+#sample{
+
+    background-color:#1B4F72;
+    color:#fff;
+    padding-top:5px  ;
+    padding-left:14px  ;
+    padding-right: 4px ;
+    padding-bottom: 8px;
+}
+
+
+.insp h1:hover{
+    color: #fff;
+    background-color:  #1B4F72;
+}
+
+#sample:hover{
+
+    background-color:#fff;
+    color:#1B4F72;;
+    padding-top:5px  ;
+    padding-left:14px  ;
+    padding-right: 4px ;
+    padding-bottom: 8px;
+}
+
+
+.main-container{
+    margin-left: 10%;
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#2E86C1;
+}
+
+
+#container{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    background-color: #21618C;
+    color: #F7F9F9;
+    box-shadow: 8px,8px,8px rgba(93, 170, 241, 0.5), -8px,-8px,5px , rgba(44, 62, 80, 0.6);
+    border-radius: 50%;
+    border:2px #fff solid;
+    
+}
+
+@font-face{
+    font-family: digitalfont;
+    src:url(digitalfont.ttf);
+}
+
+
+#text{
+    font-family: digitalfont;
+    height: 300px;
+    width: 200px;
+    margin: 70px auto;
+    margin-top: 140px;
+}
+
+
+.btn{
+    margin-left: 8px;
+    width:50px;
+    /* padding: 10px; */
+    height:50px;
+    
+    border: 2px none;
+    font-family: Rockwell;
+    font-size: 18px;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    color:#21618C;
+    
+}
+
+.btn:hover{
+    background-color: #2E86C1;
+    border: 2px #fff solid;
+    color:#fff;
+}
+
+
+
+#watch{
+    font-size: 40px;
+    
+}
